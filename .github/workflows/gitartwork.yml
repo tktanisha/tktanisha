@@ -15,7 +15,7 @@
             user_name: jasineri
             # Text on contribution graph 
             text: JASINERI
-       - uses: jasineri/simple-push-action@v1
+       - uses: jasineri/gitartwork@v1
             
                 
             
