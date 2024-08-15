@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/tapesh-dua-b49872216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tanisha07_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishaKhandelwal" height="30" width="40" /></a>
-</p><br><br><br><br><br><br>
+</p><br><br><br><be><br>
 <hr>
 
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-<br><br>
+<br>
 
 
 
