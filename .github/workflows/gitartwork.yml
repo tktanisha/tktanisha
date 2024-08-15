@@ -9,12 +9,12 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
+       - uses: jasineri/gitartwork@v2
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: tktanisha
             # Text on contribution graph 
-            text: JASINERI
+            text: TANISHA
        - uses: jasineri/gitartwork@v1
             
                 
