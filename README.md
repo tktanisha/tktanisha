@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/tapesh-dua-b49872216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tanisha07_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishaKhandelwal" height="30" width="40" /></a>
-</p><br><br><br><be><br>
+</p><br><br><br><br>
 <hr>
 
 
@@ -61,6 +61,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tktanisha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+<br><br>
+
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
+<a href="https://linkedin.com/in/tapesh-dua-b49872216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tanisha07_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishaKhandelwal" height="30" width="40" /></a>
 ---
 
 
