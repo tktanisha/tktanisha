@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YdYVerfdsjRM3SmYye4OImEN7uafHKgG/view?usp=drivesdk)
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <hr>
 
 
