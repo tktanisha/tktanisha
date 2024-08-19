@@ -41,7 +41,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> 📊 GitHub Stats</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tktanisha&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -50,5 +50,18 @@
  <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tktanisha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="tktanisha" /></p>
 </div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tktanisha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tktanisha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 
 
