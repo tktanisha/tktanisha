@@ -11,17 +11,12 @@
 
 
 
-<br><br>
+<br><br><br><br>
 - 📫 How to reach me *Khandelwaltanisha04@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YdYVerfdsjRM3SmYye4OImEN7uafHKgG/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tapesh-dua-b49872216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/tanisha07_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishaKhandelwal" height="30" width="40" /></a>
-</p><br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
 
 
@@ -49,26 +44,48 @@
   <br/>
  <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tktanisha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="tktanisha" /></p>
+
+   <br><br> 
 </div>
 
+<hr/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tktanisha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center"> 🏆 GitHub Trophies</h2>
+<br>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=tktanisha&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="readme trophies" />
+  <br/>
+    <br><br>
+ </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ <hr/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tktanisha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center"> ✍️ Random Dev Quote</h2>
+<br>
+<div align=center>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="readme trophies" />
+  <br/><br><br>
+ </div>
 
+ <hr/>
+
+<h2 align="center">  🔝 Top Contributed Repo</h2>
+<br>
+<div align=center>
+  <img src="https://github-contributor-stats.vercel.app/api?username=tktanisha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="readme trophies" />
+  <br/><br><br>
+ </div>
+
+<hr/>
 
 <br><br>
 
-<h3 align="centre">Connect with me:</h3>
-<p align="centre">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/tapesh-dua-b49872216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tanisha07_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanishaKhandelwal" height="30" width="40" /></a>
+    <hr/>
 ---
 
 
