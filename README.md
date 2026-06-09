@@ -38,7 +38,6 @@ I’m currently working as a `Software Engineering Intern` at `WatchGuard Techno
 
 My work primarily focuses on large-scale `migration initiatives from Azure-based architecture to AWS` cloud-native infrastructure, where I contribute to scalable backend services, API migrations, infrastructure integrations, and performance optimization.
 
-I enjoy solving backend scalability challenges, optimizing distributed systems, and understanding how large cloud platforms operate internally.
 
 ---
 
