@@ -9,6 +9,17 @@
 Software Engineering Intern @ WatchGuard Technologies
 </h3>
 
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1D3TU6880mGIdP8JYsKYzZMVASInHK0d2/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/khandelwal-tanisha07">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
 
 <p align="center" style="color: #9ca3af;">
 Backend Engineering • Distributed Systems • Cloud Infrastructure • AWS
